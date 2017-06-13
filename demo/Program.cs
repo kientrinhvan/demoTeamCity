@@ -12,7 +12,6 @@ namespace demo
         {
             System.Console.WriteLine("Hello world!");
             System.Console.WriteLine
-                ?
         }
     }
 }
