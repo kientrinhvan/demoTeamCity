@@ -11,7 +11,11 @@ namespace demo
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello world!");
-            System.Console.WriteLine("abc")
+
+            Tutorial tp = new Tutorial();
+            tp.Name = "Continuous Integration";
+
+            System.Console.WriteLine(tp.Name);
         }
     }
 }

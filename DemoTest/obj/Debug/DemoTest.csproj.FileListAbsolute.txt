@@ -1,0 +1,9 @@
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\DemoTest.dll
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\DemoTest.pdb
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\demo.exe
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\demo.pdb
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\obj\Debug\DemoTest.csprojResolveAssemblyReference.cache
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\obj\Debug\DemoTest.dll
+c:\Users\kien.trinh\documents\visual studio 2015\Projects\demo\DemoTest\obj\Debug\DemoTest.pdb
